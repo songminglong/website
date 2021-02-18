@@ -28,6 +28,7 @@
 #      Message *two*.
 
 # leave the "announcements" key in place
+just for test...
 announcements:
 
 - name: Kubecon 2020 NA
